@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as c,a as r}from"./_plugin-vue_export-helper-3f0b5212.js";const a={data(){return{}}};function n(p,s,_,l,u,d){return c(),e("div",null," ctrl ")}const o=t(a,[["render",n]]);r(o).mount("#app");

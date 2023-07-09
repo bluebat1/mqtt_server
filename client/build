@@ -1,0 +1,4 @@
+cd src
+go build
+mv main.exe ../bin/
+cd ..

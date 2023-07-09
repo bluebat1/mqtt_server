@@ -1,0 +1,12 @@
+{
+	"mysql":{
+		"ip":"localhost",
+		"port": "3306",
+		"user":"root",
+		"passwd": "s45123456789",
+		"database": "mqtt"
+	},
+	"web":{
+		"port": "9020"
+	}
+}
